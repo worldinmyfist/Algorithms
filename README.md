@@ -1,2 +1,2 @@
-# Algorithms
-Some algos regarding data structures
+# Sorting Algorithms
+Some algos regarding sorting
